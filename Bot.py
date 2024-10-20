@@ -1,5 +1,4 @@
-pip install python-telegram-bot
-import telegram
+
 from telegram.ext import Updater, CommandHandler
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
